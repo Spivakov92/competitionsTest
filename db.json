@@ -1,0 +1,52 @@
+{
+  "competitions": [
+    {
+      "id": 1,
+      "type": "football",
+      "isRunning": true,
+      "teams": [
+        "Ajax",
+        "MU"
+      ],
+      "result": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "type": "chess",
+      "isRunning": false,
+      "teams": [
+        "Ajax",
+        "MU"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "chess",
+      "isRunning": true,
+      "teams": [
+        "Ajax",
+        "MU"
+      ],
+      "result": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "type": "tennis",
+      "isRunning": false,
+      "teams": [
+        "Ajax",
+        "MU"
+      ],
+      "result": [
+        1,
+        0
+      ]
+    }
+  ]
+}
